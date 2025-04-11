@@ -1,0 +1,25 @@
+body{
+	background-color: #ffcad4;
+}
+
+h1{
+	text-align: center;
+	font-size: 40px;
+}
+
+.container{
+	background-color: #f8edeb;
+	margin: 130px;
+	margin-left: 160px;
+  width: 800px;
+  height: 450px;
+  border: medium dashed;
+  border-color:#da627d;
+  padding-right: 100px;
+  align-content: center;
+  padding-left: 100px;
+}
+
+.name{
+	margin: 10px;
+}
